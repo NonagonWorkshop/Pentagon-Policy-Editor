@@ -5,7 +5,7 @@ A ChromeOS user policy editor based on Pollen Policy Editor.
 This creates a new directory at etc/opt/chrome/policies/managed, then it loads a file that replaces the policy.json file with a custom one. 
 Please have rootFS verification disabled or use the following command to disable RootFS verification:
 
->[!Important Note]
+>[!Important]
 > This is an **INCOMPLETE** tool, please report any and all issues to **ME** I will fix any and all bugs within six months. 
 ```bash
 sudo /usr/share/vboot/bin/make_dev_ssd.sh -i /dev/mmcblk0 --remove_rootfs_verification --partitions 2
