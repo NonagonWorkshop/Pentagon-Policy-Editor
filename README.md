@@ -3,7 +3,7 @@ A ChromeOS user policy editor based on Pollen Policy Editor.
 
 
 This creates a new directory at etc/opt/chrome/policies/managed, then it loads a file that replaces the policy.json file with a custom one. 
-Please have rootFS verification disabled or use the following command to disable RootFS verification:
+Please have rootFS verification disabled or use the following command to disable **RootFS** verification:
 
  
 ```bash
