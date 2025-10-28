@@ -13,8 +13,5 @@ sudo /usr/share/vboot/bin/make_dev_ssd.sh -i /dev/mmcblk0 --remove_rootfs_verifi
 
 Run the following command as **Root** to run the editor:
 
->[!NOTE]
->hi
-
 ```bash
 curl -Ls https://raw.githubusercontent.com/StarkMist111960/Pentagon-Policy-Editor-/refs/heads/main/Pentagon.sh | bash 
