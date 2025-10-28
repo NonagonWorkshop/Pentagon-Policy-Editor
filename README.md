@@ -13,6 +13,9 @@ sudo /usr/share/vboot/bin/make_dev_ssd.sh -i /dev/mmcblk0 --remove_rootfs_verifi
 >[!Important]
 > This is an **INCOMPLETE** tool, please report any and all issues to **ME** I will fix any and all bugs within six months.
 
+>[!Hi]
+>hello
+
 >[!Warning]
 >**Using this could get you in trouble with your school or brick your device if used incorrectly I am not liable for any losses or damage, nor are my associates at NonagonFactory nor are the creators of Pollen or Lilac.**
 
