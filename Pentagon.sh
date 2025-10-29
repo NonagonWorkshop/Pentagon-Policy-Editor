@@ -8,7 +8,7 @@ fi
 
 echo "Welcome to Pentagon Policy Editor"
 echo "by StarkMist111960"
-echo "Policies from Star-destroyer12"
+echo "Policies from Star_destroyer11"
 echo "Based on Rainestorme and associate's Pollen Policy Editor"
 
 sleep 1
@@ -60,21 +60,10 @@ echo '{
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": ["haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml","jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php","bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx"],
-  "ExtensionSettings": {"haldlgldplgnggkjaafhelgiaglafanh": { "blocked_permissions": [] },
   "CloudExtensionRequestEnabled": null,
   "PinnedLauncherApps": null,
   "BookmarkBarEnabled": null,
   "LidCloseAction": null,
-   "DeviceWallpaperImage": {
-               "level": "mandatory",
-               "scope": "machine",
-               "source": "cloud",
-               "value": {
-                  "hash": "8239a0818fa8f46019bc8580fec1735ee348594db59ace493408f1e8818c1396",
-                  "url": "https://storage.googleapis.com/chromeos-mgmt/0gjdgxs2l87432/ChromeOsWallpaper/80df87ef-34dc-42bc-b361-7326d373f3b1"
-               }
-            },
   "ChromeOsLockOnIdleSuspend": null,
   "PowerManagementIdleSettings": null,
   "ShowFullUrlsInAddressBar": null,
@@ -122,7 +111,7 @@ echo '{
   "JavaScriptBlockedForUrls": [],
   "ReportDeviceBootMode": false,
   "DeviceBlockDevmode": false
-}' > /etc/opt/chrome/policies/managed/newpolicy.json
+}' > /etc/opt/chrome/policies/managed/policy.json
 
 echo "done"
-echo "successfully applied, you may need to rload your policies or press ctrl shift q+q and then repeatedly reload policies before this works."
+echo "successfully applied, you may need to reload your policies or press Ctrl Shift q+q and then repeatedly reload policies before this works."
