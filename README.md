@@ -21,6 +21,7 @@ sudo /usr/share/vboot/bin/make_dev_ssd.sh -i /dev/mmcblk0 --remove_rootfs_verifi
 
 >[!Note]
 >**This is specifically directed at my friend who said that this editor failed and re-enrolled his chromebook, to which I say, no that isn't my fault, you did somehting wrong on your end and stop blaming me for your problems**
+> - StarkMist111960
 
 Run the following command as **Root** to run the editor:
 
