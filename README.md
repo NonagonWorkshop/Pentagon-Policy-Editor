@@ -19,6 +19,9 @@ sudo /usr/share/vboot/bin/make_dev_ssd.sh -i /dev/mmcblk0 --remove_rootfs_verifi
 >[!Warning]
 >**Using this could get you in trouble with your school or brick your device if used incorrectly. I am not liable for any losses or damage, nor are my associates at NonagonFactory, nor are the creators of Pollen or Lilac.**
 
+>[!Note]
+>**This is specifically directed at my friend who said that this editor failed and re-enrolled his chromebook, to which I say, no that isn't my fault, you did somehting wrong on your end and stop blaming me for your problems**
+
 Run the following command as **Root** to run the editor:
 
 ```bash
