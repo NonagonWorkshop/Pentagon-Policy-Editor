@@ -48,6 +48,7 @@ echo '{
   "TrashEnabled": true,
   "DriveDisabled": false,
   "DriveDisabledOverCellular": false,
+  "ReportDeviceBootMode": fales,
   "ArcEnabled": true,
   "URLAllowlist": null,
   "AllowedDomainsForApps": null,
