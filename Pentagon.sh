@@ -58,7 +58,7 @@ echo '{
   "CookiesAllowedForUrls": null,
   "ExtensionManifestV2Availability": 2,
   "ExtensionAllowedTypes": null,
-  "ExtensionInstallAllowlist": null,
+  "ExtensionInstallAllowlist": *,
   "ExtensionInstallBlocklist": null,
   "CloudExtensionRequestEnabled": null,
   "PinnedLauncherApps": null,
