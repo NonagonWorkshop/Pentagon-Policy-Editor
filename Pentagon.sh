@@ -79,7 +79,9 @@ echo '{
   "NetworkThrottlingEnabled": "false",
   "NetworkPredictionOptions": "0",
   "AllowedDomainsForApps": "",
-  "DeviceUserAllowlist": ""
+  "DeviceUserAllowlist": "",
+  "DeviceGuestModeEnabled": "1",
+  "DeviceAllowNewUser": "1"
 }' > /etc/opt/chrome/policies/managed/policy.json
 
 echo "done"
